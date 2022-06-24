@@ -1,5 +1,5 @@
 <h1>👋 Hey! Nice to see you.</h1>
-<p>Welcome to my page! </br> I'm Pavel, Fullstack developer from <b>Minsk, Belarus</b></p>
+<p>Welcome to my page! </br> I'm Pavel, Fullstack developer</p>
 <h3>Things I work with</h3>
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
